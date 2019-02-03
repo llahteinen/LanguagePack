@@ -16,4 +16,7 @@
     <Keyboard nameResId="@string/keyboard_name" iconResId="@drawable/flag" layoutResId="@xml/qwerty_numbers_symbols"
         id="cd54e1a0-1dbc-11e9-b56e-0800200c9a66" defaultDictionaryLocale="fi" description="Suomi with numbers and symbols by llahteinen" index="3"/>
 
+    <Keyboard nameResId="@string/keyboard_name" iconResId="@drawable/flag" layoutResId="@xml/qwerty_symbols_top_row_numbers"
+        id="3aeda640-1e79-11e9-b56e-0800200c9a66" defaultDictionaryLocale="fi" description="Suomi with number top row and symbols by llahteinen" index="4"/>
+
 </Keyboards>
