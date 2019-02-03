@@ -10,4 +10,7 @@
     <Keyboard nameResId="@string/keyboard_name" iconResId="@drawable/flag" layoutResId="@xml/qwerty"
         id="bbc4e54e-1c2a-44d4-9df4-98309c9116de" defaultDictionaryLocale="fi" description="Suomi by ssalonen / llahteinen" index="1"/>
 
+    <Keyboard nameResId="@string/keyboard_name" iconResId="@drawable/flag" layoutResId="@xml/qwerty_numbers"
+        id="5f5b5340-1c9b-11e9-b56e-0800200c9a66" defaultDictionaryLocale="fi" description="Suomi with numbers by llahteinen" index="2"/>
+
 </Keyboards>
