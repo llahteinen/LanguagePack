@@ -7,5 +7,6 @@
     <string name="keyboard_qwerty_name">Suomalainen QWERTY</string>
     <string name="keyboard_qwerty_description">Suomalainen QWERTY-näppäimistö by ssalonen</string>
     <string name="keyboard_qwerty_simple_description">Suomalainen yksinkertaistettu näppäimistö by llahteinen</string>
+    <string name="keyboard_qwerty_numbers_description">Suomalainen näppäimistö numeroilla by llahteinen</string>
     
 </resources>

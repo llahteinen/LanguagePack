@@ -7,5 +7,6 @@
     <string name="keyboard_qwerty_name">Finnish QWERTY</string>
     <string name="keyboard_qwerty_description">Finnish QWERTY keyboard by ssalonen</string>
     <string name="keyboard_qwerty_simple_description">Finnish simple keyboard by llahteinen</string>
+    <string name="keyboard_qwerty_numbers_description">Finnish keyboard with numbers by llahteinen</string>
     
 </resources>
