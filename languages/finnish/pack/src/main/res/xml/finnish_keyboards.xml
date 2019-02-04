@@ -30,5 +30,10 @@
         iconResId="@drawable/ic_status_finnish" defaultDictionaryLocale="fi"
         layoutResId="@xml/finnish_qwerty_numbers_symbols"
         id="cd54e1a0-1dbc-11e9-b56e-0800200c9a66" index="4" />
+    <Keyboard
+        nameResId="@string/keyboard_name" description="@string/keyboard_qwerty_symbols_top_row_numbers_description"
+        iconResId="@drawable/ic_status_finnish" defaultDictionaryLocale="fi"
+        layoutResId="@xml/finnish_qwerty_symbols_top_row_numbers"
+        id="3aeda640-1e79-11e9-b56e-0800200c9a66" index="5" />
 
 </Keyboards>
