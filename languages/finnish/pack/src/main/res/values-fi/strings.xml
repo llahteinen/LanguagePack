@@ -4,7 +4,8 @@
     <string name="dictionary_name">Suomen sanasto</string>
     
     <string name="keyboard_name">Suomalainen näppäimistö</string>
-    <string name="keyboard_qwerty_name">Suomalainen qwerty</string>
-    <string name="keyboard_qwerty_description">Suomalainen qwerty-näppäimistö by ssalonen</string>
+    <string name="keyboard_qwerty_name">Suomalainen QWERTY</string>
+    <string name="keyboard_qwerty_description">Suomalainen QWERTY-näppäimistö by ssalonen</string>
+    <string name="keyboard_qwerty_simple_description">Suomalainen yksinkertaistettu näppäimistö by llahteinen</string>
     
 </resources>

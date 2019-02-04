@@ -15,5 +15,10 @@
         iconResId="@drawable/ic_status_finnish" defaultDictionaryLocale="fi"
         layoutResId="@xml/finnish_qwerty"
         id="bbc4e54e-1c2a-44d4-9df4-98309c9116de" index="1" />
+    <Keyboard
+        nameResId="@string/keyboard_name" description="@string/keyboard_qwerty_simple_description"
+        iconResId="@drawable/ic_status_finnish" defaultDictionaryLocale="fi"
+        layoutResId="@xml/finnish_qwerty_simple"
+        id="f33d99d0-28ab-11e9-b56e-0800200c9a66" index="2" />
 
 </Keyboards>
