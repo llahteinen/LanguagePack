@@ -35,5 +35,11 @@
         iconResId="@drawable/ic_status_finnish" defaultDictionaryLocale="fi"
         layoutResId="@xml/finnish_qwerty_symbols_top_row_numbers"
         id="3aeda640-1e79-11e9-b56e-0800200c9a66" index="5" />
+    <Keyboard
+        nameResId="@string/keyboard_name" description="@string/keyboard_qwerty_symbols_top_row_numbers_bottom_row_arrows_description"
+        iconResId="@drawable/ic_status_finnish" defaultDictionaryLocale="fi"
+        layoutResId="@xml/finnish_qwerty_symbols_top_row_numbers_bottom_row_arrows"
+        landscapeResId="@xml/finnish_qwerty_symbols_top_row_numbers_landscape_arrows"
+        id="55a3a080-2247-11e9-b56e-0800200c9a66" index="6" />
 
 </Keyboards>

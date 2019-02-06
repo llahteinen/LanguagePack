@@ -10,5 +10,6 @@
     <string name="keyboard_qwerty_numbers_description">Finnish keyboard with numbers by llahteinen</string>
     <string name="keyboard_qwerty_numbers_symbols_description">Finnish keyboard with numbers and symbols by llahteinen</string>
     <string name="keyboard_qwerty_symbols_top_row_numbers_description">Finnish keyboard with number top row and symbols by llahteinen</string>
+    <string name="keyboard_qwerty_symbols_top_row_numbers_bottom_row_arrows_description">Finnish keyboard with number top row and arrow buttons by llahteinen</string>
     
 </resources>
